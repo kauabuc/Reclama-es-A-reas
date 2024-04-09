@@ -1,6 +1,6 @@
 ﻿# Reclamações Aéreas
 
-### O projeto completo se encontra no meu [Medium]()
+### O projeto completo se encontra no meu [Medium](https://medium.com/@kakabuchweitz/melhoria-do-canal-de-atendimento-das-principais-companhias-a%C3%A9reas-do-brasil-1b3cd7d120f7)
 
 ### Overview do Projeto
 ---
