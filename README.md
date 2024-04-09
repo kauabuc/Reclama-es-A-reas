@@ -1,6 +1,7 @@
 ﻿# Reclamações Aéreas
 
 ### O projeto completo se encontra no meu [Medium](https://medium.com/@kakabuchweitz/melhoria-do-canal-de-atendimento-das-principais-companhias-a%C3%A9reas-do-brasil-1b3cd7d120f7)
+### [Confira aqui o dashboard do projeto.](https://app.powerbi.com/view?r=eyJrIjoiNDA0OGIzNmItMzMxOS00MTY3LTlhNmUtNDI3M2NhYjk1MTg2IiwidCI6IjBjMzkwMzgzLTc1NTQtNDdkOC05YmVkLTgxMDI3YzBjMjE4OCJ9&pageName=ReportSection712922e69aabaa73e159)
 
 ### Overview do Projeto
 ---
